@@ -1,7 +1,7 @@
 # 芯片厂商
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,www.amd.com
+DOMAIN-SUFFIX,amd.com
 
 #主板厂商
 DOMAIN-SUFFIX,asrock.com
