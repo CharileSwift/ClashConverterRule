@@ -1,0 +1,47 @@
+# 芯片厂商
+DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,www.amd.com
+
+#主板厂商
+DOMAIN-SUFFIX,asrock.com
+DOMAIN-SUFFIX,biostar.com.tw
+
+# 显卡厂商
+DOMAIN-SUFFIX,xfxforce.com
+DOMAIN-SUFFIX,sapphiretech.com
+DOMAIN-SUFFIX,pny.com
+DOMAIN-SUFFIX,hisdigital.com
+
+#内存厂商
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,crucial.com
+DOMAIN-SUFFIX,skhynix.com
+DOMAIN-SUFFIX,kingston.com
+DOMAIN-SUFFIX,gskill.com
+DOMAIN-SUFFIX,adata.com
+DOMAIN-SUFFIX,consumer.apacer.com
+DOMAIN-SUFFIX,teamgroupinc.com
+
+#硬盘
+DOMAIN-SUFFIX,westerndigital.com
+DOMAIN-SUFFIX,toshiba.com
+DOMAIN-SUFFIX,kioxia.com
+DOMAIN-SUFFIX,solidigm.com
+
+# 机电散
+DOMAIN-SUFFIX,deltaww.com
+DOMAIN-SUFFIX,fsp-group.com
+DOMAIN-SUFFIX,nzxt.com
+DOMAIN-SUFFIX,phanteks.com
+DOMAIN-SUFFIX,in-win.com
+DOMAIN-SUFFIX,apexgaming.info
+DOMAIN-SUFFIX,thermaltake.com
+DOMAIN-SUFFIX,cougargaming.com
+DOMAIN-SUFFIX,bequiet.com
+
+#整机商
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,lenovo.com
+DOMAIN-SUFFIX,acer.com
