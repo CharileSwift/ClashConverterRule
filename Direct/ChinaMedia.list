@@ -60,11 +60,6 @@ DOMAIN-SUFFIX,youku.com
 IP-CIDR,106.11.0.0/16,no-resolve
 
 # NetEaseMusic 网易云音乐
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,api.iplay.163.com
-DOMAIN-SUFFIX,hz.netease.com
-DOMAIN-SUFFIX,mam.netease.com
-DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
 IP-CIDR,39.105.63.80/32,no-resolve
 IP-CIDR,39.105.175.128/32,no-resolve
