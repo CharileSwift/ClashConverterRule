@@ -1,5 +1,7 @@
-# My Domain
 # Ubisoft fix
 #DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
+#BT
+DOMAIN-SUFFIX,bt4g.org
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,bitsearch.to
 #PT
-# Other Blog Domain
