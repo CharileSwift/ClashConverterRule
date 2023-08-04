@@ -20,6 +20,10 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
+
 # Router managed 路由器管理域名
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
