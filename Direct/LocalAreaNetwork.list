@@ -24,6 +24,9 @@ DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 
+DOMAIN-SUFFIX,checkip.dyndns.com
+DOMAIN-SUFFIX,checkipv6.dyndns.com
+
 # Router managed 路由器管理域名
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
