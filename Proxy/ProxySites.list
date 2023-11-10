@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,soulvoice.club
 #pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
+# Wallpaper
+DOMAIN-SUFFIX,wallhaven.cc
