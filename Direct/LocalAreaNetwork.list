@@ -1,7 +1,7 @@
 # 本地/局域网地址
 # 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
 
-SRC-IP-CIDR,10.0.1.151/32,DIRECT
+SRC-IP-CIDR,10.0.1.151/32
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
