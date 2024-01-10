@@ -1,9 +1,6 @@
-IP-CIDR,1.1.1.1/32,no-resolve
 #home
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,truenas.com
-# Ubisoft fix
-#DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
 #9kg
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
