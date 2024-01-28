@@ -47,3 +47,5 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 # Wallpaper
 DOMAIN-SUFFIX,wallhaven.cc
+#other
+DOMAIN-SUFFIX,iwara.tv
