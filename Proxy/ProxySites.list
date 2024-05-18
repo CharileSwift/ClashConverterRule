@@ -1,8 +1,6 @@
 #home
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,truenas.com
-DOMAIN-SUFFIX,checkip.dyndns.com
-DOMAIN-SUFFIX,checkipv6.dyndns.com
 #9kg
 DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,e-hentai.org
